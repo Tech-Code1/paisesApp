@@ -1,0 +1,8 @@
+li {
+  cursor: pointer;
+}
+
+.size-flag {
+  width: 24px;
+  margin-right: 8px;
+}
